@@ -13,7 +13,7 @@ The project promotes scientific knowledge and philosophy to the general public, 
 
 The 24 videos in this collection may be opened or downloaded individually as follows:
 
-- [A Glorious Dawn.mp4](https://github.com/jamalmazrui/Scimphony/raw/master/A%20Glorious%20Dawn%20-%20Symphony%20of%20Science.mp4)
+- [A Glorious Dawn.mpg](https://github.com/jamalmazrui/Scimphony/raw/master/A%20Glorious%20Dawn%20-%20Symphony%20of%20Science.mp4)
 - [A Wave of Reason.mp4](https://github.com/jamalmazrui/Scimphony/raw/master/A%20Wave%20of%20Reason%20-%20Symphony%20of%20Science.mp4)
 - [Beyond the Horizon.mp4](https://github.com/jamalmazrui/Scimphony/raw/master/Beyond%20the%20Horizon%20-%20Symphony%20of%20Science.mp4)
 - [Children of Africa.mp4](https://github.com/jamalmazrui/Scimphony/raw/master/Children%20of%20Africa%20-%20Symphony%20of%20Science.mp4)
