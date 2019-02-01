@@ -7,7 +7,7 @@ Distributed by Jamal Mazrui on January 31, 2019
 
 Scimphony is a playlist of 24 music videos by John D. Boswell called *Symphony of Science*, which are distributed with an open license that encourages non-commercial sharing.
 
-Symphony of Science videos are available from the website [SymphonyOfScience.com](http://SymphonyOfScience.com), from a [Facebook page](https://www.facebook.com/Symphony-of-Science-370898037745/), and from a [YouTube channel](https://www.youtube.com/user/melodysheep), usually attributed to the user name *melodysheep*.
+Symphony of Science videos are available from the website [SymphonyOfScience.com](http://SymphonyOfScience.com), from a [Facebook page](https://www.facebook.com/Symphony-of-Science-370898037745/), and from a [YouTube channel](https://www.youtube.com/user/melodysheep), generally attributed to the user name *melodysheep*.
 
 The project promotes scientific knowledge and philosophy to the general public, using video clips of famous scientists that are arranged creatively in compositions that mix spoken words and pop music.  A [Wikipedia article](https://en.wikipedia.org/wiki/Symphony_of_Science) gives more detail about the mix of clips in each video.
 
