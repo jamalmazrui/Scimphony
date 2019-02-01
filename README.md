@@ -5,21 +5,11 @@ An open video collection based on the *Symphony of Science* project
 
 Distributed by Jamal Mazrui on January 31, 2019
 
-This archive contains a play list of 24, free, music videos by John D. Boswell called "Symphony of Science," available from the following website:
+Scimphony is a playlist of 24 music videos by John D. Boswell called *Symphony of Science*, which are distributed with an open license that encourages non-commercial sharing.
 
-<http://SymphonyOfScience.com>
+Symphony of Science videos are available from the website [SymphonyOfScience.com](http://SymphonyOfScience.com), from a [Facebook page](https://www.facebook.com/Symphony-of-Science-370898037745/), and from a [YouTube channel](https://www.youtube.com/user/melodysheep), usually attributed to the user name *melodysheep*.
 
-The project promotes scientific knowledge and philosophy to the general public using video clips of famous scientists that are arranged creatively in pop compositions.  The following is a Wikipedia article with more detail about each video:
-
-<https://en.wikipedia.org/wiki/Symphony_of_Science>
-
-In addition, here is a Facebook page for the project:
-
-<https://www.facebook.com/Symphony-of-Science-370898037745/>
-
-Mr. Boswell also posts the videos on his YouTube channel under the screen name "melodysheep":
-
-<https://www.youtube.com/user/melodysheep>
+The project promotes scientific knowledge and philosophy to the general public, using video clips of famous scientists that are arranged creatively in pop compositions.  A [Wikipedia article](https://en.wikipedia.org/wiki/Symphony_of_Science) gives more detail about the mix of clips in each video.
 
 The 24 videos in this collection may be downloaded individually as follows:
 
