@@ -9,9 +9,9 @@ Scimphony is a playlist of 24 music videos by John D. Boswell called *Symphony o
 
 Symphony of Science videos are available from the website [SymphonyOfScience.com](http://SymphonyOfScience.com), from a [Facebook page](https://www.facebook.com/Symphony-of-Science-370898037745/), and from a [YouTube channel](https://www.youtube.com/user/melodysheep), usually attributed to the user name *melodysheep*.
 
-The project promotes scientific knowledge and philosophy to the general public, using video clips of famous scientists that are arranged creatively in pop compositions.  A [Wikipedia article](https://en.wikipedia.org/wiki/Symphony_of_Science) gives more detail about the mix of clips in each video.
+The project promotes scientific knowledge and philosophy to the general public, using video clips of famous scientists that are arranged creatively in compositions that mix spoken words and pop music.  A [Wikipedia article](https://en.wikipedia.org/wiki/Symphony_of_Science) gives more detail about the mix of clips in each video.
 
-The 24 videos in this collection may be downloaded individually as follows:
+The 24 videos in this collection may be opened or downloaded individually as follows:
 
 - [A Glorious Dawn.mp4](https://github.com/jamalmazrui/Scimphony/raw/master/A%20Glorious%20Dawn%20-%20Symphony%20of%20Science.mp4)
 - [A Wave of Reason.mp4](https://github.com/jamalmazrui/Scimphony/raw/master/A%20Wave%20of%20Reason%20-%20Symphony%20of%20Science.mp4)
@@ -38,6 +38,4 @@ The 24 videos in this collection may be downloaded individually as follows:
 - [We Are All Connected.mp4](https://github.com/jamalmazrui/Scimphony/raw/master/We%20Are%20All%20Connected%20-%20Symphony%20of%20Science.mp4)
 - [We Are Star Dust.mp4](https://github.com/jamalmazrui/Scimphony/raw/master/We%20Are%20Star%20Dust%20-%20Symphony%20of%20Science.mp4)
 
-In addition, the whole collection may be downloaded in the following zip archive:
-
-<https://GitHub.com/JamalMazrui/Scimphony/archive/master.zip>
+Thanks for this enrichment, melodysheep!
