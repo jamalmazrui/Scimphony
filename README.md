@@ -2,7 +2,6 @@
 Inspiring music videos about scientific principles, featuring clips of famous scientists!
 
 An open video collection based on the *Symphony of Science* project
-
 Distributed by Jamal Mazrui on January 31, 2019
 
 Scimphony is a playlist of 24 music videos by John D. Boswell called *Symphony of Science*, which are distributed with an open license that encourages non-commercial sharing.
